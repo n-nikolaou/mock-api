@@ -1,15 +1,1 @@
-{
-  "response" : [
-    "success": true
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-
-}
+{ "response" : {"success" : true }}
